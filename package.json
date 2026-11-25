@@ -1,0 +1,16 @@
+{
+  "name": "practica-devops",
+  "version": "1.0.0",
+  "description": "Práctica DevOps: pruebas con Jest",
+  "main": "src/calculadora.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Aquino",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
